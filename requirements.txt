@@ -9,3 +9,4 @@ chromadb
 awscli
 streamlit
 pypdf
+faiss-cpu
